@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Week 1
-by: Michael Adeleke
+by: Eric Void Jr
 ---
 
-During the first week, I met with Dr. Crawford and my mentors to discuss the project 
-that I will be working on and gained an understanding of what Dr. Crawford will be looking for. 
-Dr. Crawford also explained to me what, "Physiological Computing Education", is along 
-with the differences between EEG and EMG.
-
+During the first week, We had a couple workshops on Python. I enjoyed relearnig the language. My group also went over our project and I must say I am very excited. Some things I am having trouble with is staying on top of all of the downloading I have to do in order to complete my work for the institute. This week I accomplished learning numpy & machine learning. They arent hard concepts and I enjoyed the workshops for them. Every mentor is nice and helpful, I like how the institute is organized. But overall this week has been very informative, I can see myself enjoying the next nine weeks I have left for sure.
 [Back](./)
