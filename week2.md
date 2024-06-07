@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 2
-by: Eric Void Jr
+author: Eric Void Jr
 ---
 
 During the second week, my main focus has been trying to complete the Unity lessons. I fell behind due to technical issues but I wasnt feeling overwhelmed about getting the tasks done. I didnt feel that way because I truly enjoy creating the different types of games and having the oppurtunity to learn the ins & outs of game development.
