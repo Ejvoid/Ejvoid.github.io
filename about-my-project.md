@@ -6,6 +6,7 @@ Approach: With using BCI, Brain Computer Interface, my team and I plan on integr
 2. With the research collected from earlier stages in the process, the desgin of the interface will take place.
 3. The development of different algorithms to help interpret and translate brainwave data into game commands and actions.
 4. Preforming extensive test and making adjustments according to the new finds fromt the different trials.
+
 Expected outcomes: Because this is a relatively new research topic any progression is what is expected. Having any progress with the research of BCI and gaming is expected.
 Some problems that may present themselves are having the interface differ the different Brainwave frequencies and being able to correctly and efficiently execute the desired actions.
 
